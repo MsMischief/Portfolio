@@ -20,7 +20,7 @@
    
    ## Deployed Website
    \
-   ![Website screenshot]()
+   ![Website screenshot](https://raw.githubusercontent.com/MsMischief/Portfolio/main/assets/images/Capture.PNG)
    
    
   ## License
